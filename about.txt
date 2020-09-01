@@ -1,0 +1,7 @@
+Caesar cipher is one of the earliest and simplest method of encryption technique.
+In this we use a secret key that the sender shares with receiver.
+We simply shift every letter of the message by the key.
+example:
+message=hello and key=2,so 'h' gets shift to the right by 2 i.e 'h' becomes 'j','e' becomes 'g' an so on
+on encryption 'hello' is converted into 'jgnnq'
+In decryption we simply shift every letter to the left by key i.e in this case 2.
